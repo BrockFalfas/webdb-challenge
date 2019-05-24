@@ -59,6 +59,10 @@ Follow these steps for completing your project.
 **NOTE** There is no boilerplate for you for this project. You will need to take the steps necessary for creating this project from scratch. Start by initializing your project with a `package.json` file and go from there.
 
 - [ ] A `project` can contain multiple actions and has:
+- [ ] A `project` can contain multiple actions and has:
+- [ ] A `project` can contain multiple actions and has:
+- [ ] A `project` can contain multiple actions and has:
+- [ ] A `project` can contain multiple actions and has:
   - [ ] a unique Id.
   - [ ] a name.
   - [ ] a description.
